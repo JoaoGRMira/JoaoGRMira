@@ -1,12 +1,12 @@
 ## Hello world!! Eu sou o João Gabriel
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 📫 Contate-me no email: joaogabrielribeiromira@gmail.com
 
 <div align="center">
   <a href="https://github.com/JoaoGRMira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGRMira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGRMira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JoaoGRMira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGRMira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
