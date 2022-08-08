@@ -1,4 +1,4 @@
-## Hello world!! Eu sou o João Gabriel
+## Olá, eu sou o João Gabriel
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: joaogabrielribeiromira@gmail.com
