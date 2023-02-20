@@ -2,7 +2,7 @@
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: joaogribeiro204@gmail.com
-
+<br>
 <div align="center">
   <a href="https://github.com/JoaoGRMira">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoGRMira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
