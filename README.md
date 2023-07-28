@@ -3,6 +3,7 @@
 </div>
 
 <h2 align='center'>👨‍💻 Sobre mim 👨‍💻</h2>
+<br>
 
 - 🎓 Cursando 4° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC
 - 👨‍💻 Atualmente estagiando na área do front-end
