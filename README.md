@@ -1,6 +1,9 @@
-## Olá, eu sou o João Gabriel!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hi+There!+👋+/>;+<Eu+sou+o+João+Gabriel!+/>;" />
+</h1>
 
 - 🎓 Cursando 4° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC
+- 👨‍💻 Atualmente estagiando na área do front-end
 - 📫 Entrar em contato pelo email: joaogribeiro204@gmail.com
 <br>
 <div align="center">
