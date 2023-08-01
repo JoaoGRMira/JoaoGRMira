@@ -6,7 +6,7 @@
 <br>
 
 - 🎓 Cursando 4° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC
-- 👨‍💻 Atualmente estagiando na área do front-end
+- 👨‍💻 Atualmente estagiando em front-end
 - 📫 Entrar em contato pelo email: joaogribeiro204@gmail.com
 <br>
 
