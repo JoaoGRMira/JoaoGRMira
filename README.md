@@ -5,7 +5,7 @@
 <h2 align='center'>👨‍💻 Sobre mim 👨‍💻</h2>
 <br>
 
-- 🎓 Cursando 4° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC
+- 🎓 Cursando 5° Semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC
 - 👨‍💻 Atualmente estagiando em front-end
 - 📫 Entrar em contato pelo email: joaogribeiro204@gmail.com
 <br>
