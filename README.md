@@ -11,9 +11,11 @@
 <br>
 
 <div align="center"> 
-  <a href = "mailto:joaogribeiro204@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-ribeiro-mira-593a48229/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:joaogribeiro204@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-ribeiro-mira-593a48229/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/jaogrm_020/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
+
 <br>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
@@ -42,8 +44,11 @@
 
 <div align="center">
   <h2>🐍 Minhas contribuições! 🐍</h2>
+    
   <br>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoaoGRMira/JoaoGRMira/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
+  
 </div>
